@@ -1,0 +1,30 @@
+a:hover {
+    background-color: lightgray;
+}
+
+.logo-image {
+	min-width: 70px;
+	height: 100%;
+	width: 100px;
+	object-fit: contain;
+}
+
+.btn {
+    border: 0px;
+}
+
+.logo-image {
+	min-width: 70px;
+	height: 100%;
+	width: 100px;
+	object-fit: contain;
+}
+
+h1,
+a {
+	font-family: Helvetica, sans-serif;
+}
+
+h1 {
+	padding-top: 20px;
+}
